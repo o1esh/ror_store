@@ -5,6 +5,7 @@ one:
   name: MyString
   real: false
   wight: 1.5
+  description: MyText
   timestamps: MyString
 
 two:
@@ -12,4 +13,5 @@ two:
   name: MyString
   real: false
   wight: 1.5
+  description: MyText
   timestamps: MyString
